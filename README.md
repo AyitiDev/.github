@@ -1,5 +1,7 @@
 # AyitiDev 🇭🇹
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h4vEVwSp8)
+
 <p align="center">
   <strong>Bati teknoloji. Fè Ayiti avanse.</strong><br>
   <strong>Building technology. Moving Haiti forward.</strong>
