@@ -1,5 +1,8 @@
 # Contributing to AyitiDev
 
+- 🇺🇸 English (default)
+- 🇭🇹 [Kreyòl Ayisyen](CONTRIBUTING.ht.md)
+
 First off, thank you for taking the time to contribute! 🎉
 
 AyitiDev is an open-source community dedicated to building, sharing, and supporting technology that benefits Haiti, the Haitian diaspora, and the global developer community.
